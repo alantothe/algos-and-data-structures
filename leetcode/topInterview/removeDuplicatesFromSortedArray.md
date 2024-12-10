@@ -1,6 +1,6 @@
 # Remove Duplicates from Sorted Array
 
-Link: [Remove Duplicates From Sorted Array](https://discord.com/channels/1308888544319766598/1315808502727442435/1315808502727442435)
+Link: [Remove Duplicates From Sorted Array](https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/)
 
 Difficulty: Easy
 

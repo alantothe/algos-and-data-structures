@@ -1,6 +1,6 @@
 # Merge Sorted Array
 
-Link: [Merge Sorted Array](https://discord.com/channels/1308888544319766598/1315805470430330941/1315805470430330941)
+Link: [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150)
 
 Difficulty: Easy
 
